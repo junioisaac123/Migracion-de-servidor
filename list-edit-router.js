@@ -1,4 +1,3 @@
-// list-edit-router.js
 const express = require('express');
 const listEditRouter = express.Router();
 const tasks = require('./data'); // Importamos el array de tareas desde data.js
